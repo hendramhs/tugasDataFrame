@@ -1,0 +1,7 @@
+plt.figure(figsize=(10, 6))
+# totalSampah.plot(kind='barh', color='skyblue')
+# plt.title('Total Produksi Sampah per Kabupaten/Kota(2015-2023)')
+# plt.xlabel('jumlah produksi sampah(ton)')
+# plt.ylabel('kabupaten/kota')
+# plt.tight_layout()  
+# plt.show()
